@@ -12,7 +12,7 @@
     -  6. 키보드 H 키를 누르면 윈도우 home키와 같은 기능
     -  7. 키보드 G 키를 누르면 위도우 end키와 같은 기능
     
-###### * linux vi program과 차별화된 기능
+###### * 기존 linux vi와 차별화된 기능
     −  1. 명령모드에서
           1) :wq -dir dir 
             -> dir이라는 driectory를 만들고 해당하는 dir안에 FILENAME을 가지는 file을 만듬
